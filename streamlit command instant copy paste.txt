@@ -1,0 +1,2 @@
+streamlit run "C:\Users\Tusha\Desktop\BE-Project\Predictal.py"
+streamlit run "C:\Users\Tusha\OneDrive\Desktop\BE-Project\Predictal.py"
